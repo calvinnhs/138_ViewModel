@@ -6,6 +6,8 @@ object DataSource {
     val jenis = listOf(
         R.string.laki,
         R.string.wanita,
+    )
+    val Type = listOf(
         R.string.blm,
         R.string.menikah,
     )
